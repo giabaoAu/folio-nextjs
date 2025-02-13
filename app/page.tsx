@@ -1,6 +1,7 @@
 import Hero from "@/components/Hero";
 import { RiHome7Line } from "react-icons/ri";
 import { FloatingNav } from "@/components/ui/floating-navbar";
+import Grid from "@/components/Grid";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
           ]}
         />
         <Hero />
+        <Grid />
       </div>
     </main> 
   );

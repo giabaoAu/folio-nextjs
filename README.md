@@ -30,3 +30,5 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 1. Modify the web in page.tsx
 2. Page's components are stored in the components folder
+3. Instead of using a static array for a ts component for example
+   -> we can create a folder "data" in ./ -> then index.ts and store the static array there
