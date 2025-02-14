@@ -62,7 +62,7 @@ export const navItems = [
       id: 6,
       title: "Do you want to start a project together?",
       description: "",
-      className: "lg:col-span-1 md:col-span-1 md:row-span-1 max-h-[20vh]",
+      className: "lg:col-span-1 md:col-span-1 md:row-span-2 max-h-[25vh]",
       imgClassName: "",
       titleClassName: "justify-center md:max-w-full max-w-60 text-center",
       img: "",
