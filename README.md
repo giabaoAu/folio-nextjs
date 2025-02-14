@@ -25,6 +25,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 1. Some UI used from: acerternityUI
 2. next-themes from npm website
 3. Dark-mode was implemented from shadcn.ui
+4. Some object data can be changed in data/index.ts
+5. Gradient used for the GridBentoItem taken from: cssgradient.io
 
 ### New things I learned
 
