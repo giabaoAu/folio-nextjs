@@ -1,6 +1,7 @@
 import { cn } from "@/lib/utils";
 import { s } from "motion/react-client";
 import { BackgroundGradientAnimation } from "./background-gradient-animation";
+import { GlobeDemo } from "./GridGlobe";
 
 export const BentoGrid = ({
   className,
@@ -95,9 +96,11 @@ export const BentoGridItem = ({
               {description}
             </div>
             <div className="font-sans font-bold text-lg lg:text-xl max-w-96 z-10">
-             {title}
+              {title}
             </div>
         </div>
+        
+        {/* {id === 2 && <GlobeDemo />} */}
       </div>
     </div>
   );
