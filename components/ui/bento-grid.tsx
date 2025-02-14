@@ -1,5 +1,5 @@
 import { cn } from "@/lib/utils";
-import { s } from "motion/react-client";
+import { div, s } from "motion/react-client";
 import { BackgroundGradientAnimation } from "./background-gradient-animation";
 import { GlobeDemo } from "./GridGlobe";
 
@@ -98,10 +98,30 @@ export const BentoGridItem = ({
             <div className="font-sans font-bold text-lg lg:text-xl max-w-96 z-10">
               {title}
             </div>
-        </div>
         
         {/* {id === 2 && <GlobeDemo />} */}
+        {id === 3 && (
+          <div className="flex gap-1 lg:gap-5 w-fit absolute -right-3 lg:-right-2">
+            <div className="flex flex-col gap-3 lg:gap-8">
+              {[ 'React.js', 'Next.js', 'TypeScript' ].map((item) => (
+                <span key={item} className="py-2 lg:py-4 lg:px-3 px-3 text-sx lg:text-base opacity-50 lg:opacity-100 rounded-lg text-center bg-[#10132E]">
+                  {item}
+                </span>
+              ))}
+              <span className="py-4 px-3 rounded-lg text-center bg-[#10132e]" />
+            </div>
+            <div className="flex flex-col gap-3 lg:gap-8">
+            <span className="py-4 px-3 rounded-lg text-center bg-[#10132e]" />
+              {[ 'Tailwindcss', 'SupaBase', 'AZURE' ].map((item) => (
+                <span key={item} className="py-2 lg:py-4 lg:px-3 px-3 text-sx lg:text-base opacity-50 lg:opacity-100 rounded-lg text-center bg-[#10132E]">
+                  {item}
+                </span>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
     </div>
+  </div>
   );
 };

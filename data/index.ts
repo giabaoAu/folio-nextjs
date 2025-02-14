@@ -48,7 +48,7 @@ export const navItems = [
     },
     
     {
-      id: 6,
+      id: 5,
       title: "Currently building a JS Animation library",
       description: "The Inside Scoop",
       className: "md:col-span-2 md:row-span-1 h-[33vh]",
@@ -59,7 +59,7 @@ export const navItems = [
     },
 
     {
-      id: 5,
+      id: 6,
       title: "Do you want to start a project together?",
       description: "",
       className: "lg:col-span-1 md:col-span-1 md:row-span-1 max-h-[20vh]",
