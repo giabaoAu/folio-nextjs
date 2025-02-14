@@ -33,7 +33,7 @@ const Hero = () => {
               Hi, I&apos;m a fullstack developer based in Adelaide. I specialize in building high-quality websites using Nextjs, React, and Nodejs.
             </p>
 
-            <a href="#about">
+            <a href="https://github.com/giabaoAu">
                 <MagicButton 
                   title="Checkout my work^^" 
                   icon={<MdOutlineWork />}
