@@ -22,11 +22,12 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## NOTE!
 
-1. Some UI used from: acerternityUI
-2. next-themes from npm website
-3. Dark-mode was implemented from shadcn.ui
-4. Some object data can be changed in data/index.ts
-5. Gradient used for the GridBentoItem taken from: cssgradient.io
+1. Some UI used from: `acerternityUI`
+2. next-themes from: `npm website`
+3. Dark-mode was implemented from `shadcn.ui`
+4. Some object data can be changed in `data/index.ts`
+5. Gradient used for the GridBentoItem taken from: `cssgradient.io`
+6. To minimize React19 incompability issue -> npm install react18 reactDOM18 --legacy-peer-deps
 
 ### New things I learned
 
