@@ -51,7 +51,7 @@ export const navItems = [
       id: 5,
       title: "Currently building a JS Animation library",
       description: "The Inside Scoop",
-      className: "md:col-span-2 md:row-span-1 h-[47vh]",
+      className: "md:col-span-2 md:row-span-1 h-[45vh]",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
       titleClassName: "justify-center md:justify-start lg:justify-center",
       img: "/b5.svg",
