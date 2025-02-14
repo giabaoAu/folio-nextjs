@@ -16,7 +16,9 @@ const eslintConfig = [
       "@typescript-eslint/no-unused-vars": "off", // Disable unused variables warning
       "prefer-const": "off", // Allow using let instead of const
       "@typescript-eslint/no-explicit-any": "off", // Allow using 'any' type
-      "react-hooks/exhaustive-deps": "warn", // Change missing dependencies warn
+      "react-hooks/exhaustive-deps": "off", // Change missing dependencies warn
+      "@next/next/no-img-element": "off", // Disable <img> warning
+      "no-var": "off", // Allow using var
     },
   },
 ];
