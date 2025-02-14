@@ -1,11 +1,13 @@
 "use client"
+import dynamic from "next/dynamic";
+const Lottie = dynamic(() => import("react-lottie"), { ssr: false });
 import { cn } from "@/lib/utils";
 import { div, s } from "motion/react-client";
 import { BackgroundGradientAnimation } from "./background-gradient-animation";
 import { GlobeDemo } from "./GridGlobe";
 import { useState } from "react";
 import animationData from '@/data/confetti.json'
-import Lottie from "react-lottie";
+// import Lottie from "react-lottie";
 
 export const BentoGrid = ({
   className,
