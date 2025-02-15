@@ -108,34 +108,29 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Bao was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Bao's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Bao is the ideal partner.",
+      name: "Camille Chau",
+      title: "Associate Software Engineer - Chrysos Corporation.",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Working with Bao as a research assistant was an outstanding experience. Their professionalism, attention to detail, and commitment to delivering high-quality work were evident throughout our collaboration. Bao demonstrated a strong analytical mindset and a keen enthusiasm for research, making valuable contributions to our project. If you're looking for a dedicated and insightful research assistant, Bao is an excellent choice.",
+      name: "Kieu Trang",
+      title: "Student - University of Adelaide",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "I had the pleasure of working with Bao as both a research assistant and lecturer, and their dedication to both roles was truly impressive. They bring a strong analytical approach to research, consistently providing valuable insights, while also excelling in the classroom with their clear and engaging teaching style. Their professionalism, passion for learning, and ability to inspire others make them a fantastic asset in any academic setting.",
+      name: "Nhu Long Nguyen",
+      title: "Research Assistant/Teaching Assistant - University of Adelaide",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Studying alongside Bao has been an incredible experience. His dedication, curiosity, and willingness to support others make him an amazing friend and study partner. Whether tackling complex concepts or motivating each other through challenges, Bao always brings enthusiasm and a positive attitude. I’m grateful for his insight, humor, and unwavering support throughout our academic journey.",
+      name: "Uyen Ho",
+      title: "Student at University of Adelaide",
     },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
+
   ];
   
   export const companies = [
