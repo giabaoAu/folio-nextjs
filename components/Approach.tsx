@@ -26,8 +26,8 @@ const Approach = () => {
             translateZ="60"
             className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
           >
-            We'll collaborate to map out your website's goals, target audience, 
-            and key functionalities. We'll discuss things like site structure, 
+            We&apos;ll collaborate to map out your website&apos;s goals, target audience, 
+            and key functionalities. We&apos;ll discuss things like site structure, 
             navigation, and content requirements.
           </CardItem>
           <CardItem translateZ="100" className="w-full mt-4">
@@ -85,7 +85,7 @@ const Approach = () => {
           className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
         >
           This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
+          I&apos;ll translate everything into functional code, building your website
           from the ground up.
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
