@@ -6,10 +6,9 @@ import { CardBody, CardContainer, CardItem } from "./ui/3d-card";
 
 const Approach = () => {
   return (
-
-    <div  className="w-full py-20">
+    <div  className="w-full py-20" id="approachs">
       <h1 className="heading">
-        My <span className="text-purple">approach</span>
+        My <span className="text-purple">Approach</span>
       </h1>
 
       <div className="flex gap-4 items-center justify-center">
