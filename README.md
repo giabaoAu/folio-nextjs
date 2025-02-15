@@ -28,6 +28,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 4. Some object data can be changed in `data/index.ts`
 5. Gradient used for the GridBentoItem taken from: `cssgradient.io`
 6. To minimize React19 incompability issue -> npm install react18 reactDOM18 --legacy-peer-deps
+7. `SENTRY` (PERFORMANCE & ERROR MONITOR) to be implemented later bc it messes with three/fiber
 
 ### New things I learned
 
