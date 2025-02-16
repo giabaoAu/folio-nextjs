@@ -21,7 +21,7 @@ const Hero = () => {
         <div className='flex justify-center relative my-20 z-10'>
           <div className='max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center'>
             <h2 className='uppercase tracking-widest text-xs text-center text-blue-100 max-w-80'>
-              Dynamic Web Magic with Nextjs
+              The sky is your limit
             </h2>
 
             <TextGenerateEffect 
@@ -30,7 +30,7 @@ const Hero = () => {
             />
 
             <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-xl'>
-              Hi, I&apos;m a fullstack developer based in Adelaide. I specialize in building high-quality websites using Nextjs, React, and Nodejs.
+              Hi, I&apos;m a fullstack developer based in Adelaide. I specialize in building high-quality websites using Nextjs, React, and Nodejs. I&apos;m also learning app development using React Native
             </p>
 
             <a href="https://github.com/giabaoAu">
