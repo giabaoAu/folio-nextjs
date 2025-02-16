@@ -78,7 +78,7 @@ export const navItems = [
       des: "Experience real-time weather updates with this dynamic React application, providing accurate forecasts and interactive visuals.",
       img: "/weather-app.png",
       iconLists: ["/re.svg", "/ts.svg", "/three.svg", "/aceternityUI.png"],
-      link: "/weather-app-blond-eta-70.vercel.app",
+      link: "https://weather-app-blond-eta-70.vercel.app",
     },
     {
       id: 2,
