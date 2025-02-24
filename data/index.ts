@@ -82,11 +82,11 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "in progress",
+      title: "mango - Project Collaboration Platform ",
+      des: "Introducing 💫 mango 💫 , a project collaboration platform where you can find interesting projects to contribute to and connect with other developer!",
+      img: "/mango.png",
+      iconLists: ["/next.svg", "/tail.svg", "/sanity.png", "/authjs.jpg"],
+      link: "https://mangote.vercel.app/",
     },
     {
       id: 3,
@@ -107,12 +107,12 @@ export const navItems = [
   ];
   
   export const testimonials = [
-    {
-      quote:
-        "Collaborating with Bao was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Bao's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Bao is the ideal partner.",
-      name: "Camille Chau",
-      title: "Associate Software Engineer - Chrysos Corporation.",
-    },
+    // {
+    //   quote:
+    //     "Collaborating with Bao was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Bao's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Bao is the ideal partner.",
+    //   name: "Camille Chau",
+    //   title: "Associate Software Engineer - Chrysos Corporation.",
+    // },
     {
       quote:
         "Working with Bao as a research assistant was an outstanding experience. His professionalism, attention to detail, and commitment to delivering high-quality work were evident throughout our collaboration. Bao demonstrated a strong analytical mindset and a keen enthusiasm for research, making valuable contributions to our project. If you're looking for a dedicated and insightful research assistant, Bao is an excellent choice.",
